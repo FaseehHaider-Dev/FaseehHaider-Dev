@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Faseeh Haider
+# Faseeh Haider
 
 🚀 **Power BI Developer | Data Analytics Enthusiast | Business Intelligence Professional**
 
