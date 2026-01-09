@@ -28,11 +28,14 @@ I specialize in transforming raw data into meaningful insights using **Power BI*
 ---
 
 ## 📂 Featured Projects
-- 🔹 *Uber Trip Analysis Dashboard* 
-- 📊An interactive Power BI dashboard analyzing Uber trip data to uncover insights on bookings, revenue, trip distance, time-based demand patterns, vehicle performance, payment methods, and location trends.
-- 🔗 [View Project](https://github.com/FaseehHaider-Dev/Uber-Trip-Analysis-Dashboard.git)
-- 🔹 *Financial Reporting & KPI Tracking*  
-- 🔹 *Customer Insights & Trend Analysis*  
+🔹 *Uber Trip Analysis Dashboard* 
+
+📊An interactive Power BI dashboard analyzing Uber trip data to uncover insights on bookings, revenue, trip distance, time-based demand patterns, vehicle performance, payment methods, and location trends.
+
+🔗 [View Project](https://github.com/FaseehHaider-Dev/Uber-Trip-Analysis-Dashboard.git)
+
+🔹 *Financial Reporting & KPI Tracking*  
+🔹 *Customer Insights & Trend Analysis*  
 
 > *(Projects will be added soon — stay tuned!)*
 
