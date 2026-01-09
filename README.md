@@ -16,9 +16,9 @@ I specialize in transforming raw data into meaningful insights using **Power BI*
 ---
 
 ## 🛠️ Skills & Tools
-- **Power BI** (Desktop & Service)
+- **Power BI**
 - **DAX**
-- **Power Query (M Language)**
+- **Power Query**
 - **SQL**
 - **Excel (Advanced)**
 - **Data Modeling**
@@ -45,7 +45,7 @@ I specialize in transforming raw data into meaningful insights using **Power BI*
 
 ## 🤝 Connect With Me
 - 💼 LinkedIn: *(Add your LinkedIn URL here)*
-- 📧 Email: *(Add your professional email here)*
+- 📧 Email: *(Faseehhaider690@gmail.com)*
 
 ---
 
