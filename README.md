@@ -45,9 +45,9 @@ I specialize in transforming raw data into meaningful insights using **Power BI*
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
+- 💼 LinkedIn: *http://www.linkedin.com/in/faseehhaider-dev*
 - 📧 Email: *Faseehhaider690@gmail.com*
 
 ---
 
-⭐ **Feel free to explore my repositories and star anything you find useful!**
+
